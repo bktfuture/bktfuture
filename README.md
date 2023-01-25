@@ -12,9 +12,9 @@
 
 - 🌌 Ask me about **creative solutions and project evalution.**
 
-- 🌌 How to reach me **atalant@my.stlcc.com**
+- 🌌 How to reach me **atalant@my.stlcc.edu**
 
-- 🌌 Fun fact **I love spaceships and everything that relates to them!**
+- 🌌 Favorite fact about me: **I love spaceships and everything that relates to them!**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="SpaceShip" width="400" src="https://i.redd.it/0ro1lg4f2mo11.gif">
