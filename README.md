@@ -4,13 +4,12 @@
 
 <img align="right" alt="CyperGirl" width="400" src="https://78.media.tumblr.com/6cbfa91cb188bacf939e216c6434bdb4/tumblr_nkjax7AHE31tkhbs5o1_500.gif">
 
-- 🌌 I’m currently working on **NetHub** </p>
 
-- 🌌 I’m currently learning **C programming, C++, JavaScript.**
+- 🌌 I’m currently learning **JavaScript.**
 
-- 🌌 I’m looking for help with **JavaScript, C.**
+- 🌌 I’m looking for help with **JavaScript.**
 
-- 🌌 Ask me about **creative solutions and project evalution.**
+- 🌌 Ask me about **creative solutions.**
 
 - 🌌 How to reach me **atalant@stlcc.edu**
 
