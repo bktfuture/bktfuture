@@ -1,19 +1,13 @@
 
-<h1 align="center">Hey, I'm Aiturgan Talant 👾 </h1>
-<h3 align="center">I love developing and creating new things!</h3>
+![Hello, my name is Aya!](https://github.com/bktfuture/bktfuture/assets/86029622/57a65e61-bc3e-4b1b-b273-2425dd8b7f2e)
 
-<img align="right" alt="CyperGirl" width="400" src="https://78.media.tumblr.com/6cbfa91cb188bacf939e216c6434bdb4/tumblr_nkjax7AHE31tkhbs5o1_500.gif">
+- Check out my [Linkedin](https://www.linkedin.com/in/aiturgantalant/) to learn more about me!
+- 🌌 I’m currently learning **React** and **Swift**.
+- 
+- 🌌 Ask me about **UX/UI** tips! I have an eye for great user interfaces! 
 
+- 🌌 How to reach me **atalant@stlcc.edu** or **aiturgan888@gmail.com**.
 
-- 🌌 I’m currently learning **JavaScript.**
-
-- 🌌 I’m looking for help with **JavaScript.**
-
-- 🌌 Ask me about **creative solutions.**
-
-- 🌌 How to reach me **atalant@stlcc.edu**
-
-- 🌌 Favorite fact about me: **I love spaceships and everything that relates to them!**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="SpaceShip" width="400" src="https://i.redd.it/0ro1lg4f2mo11.gif">
