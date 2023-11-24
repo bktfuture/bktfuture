@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)](https://bktfuture.io)
+
 <h1 align="center">Hey, I'm Aiturgan Talant 👾 </h1>
 <h3 align="center">I love developing and creating new things!</h3>
 
