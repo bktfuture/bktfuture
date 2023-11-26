@@ -2,11 +2,12 @@
 ![Hello, my name is Aya!](https://github.com/bktfuture/bktfuture/assets/86029622/57a65e61-bc3e-4b1b-b273-2425dd8b7f2e)
 
 - Check out my [Linkedin](https://www.linkedin.com/in/aiturgantalant/) to learn more about me!
-- 🌌 I’m currently learning **React** and **Swift**.
-  
-- 🌌 Ask me about **UX/UI** tips! I have an eye for great user interfaces! 
 
-- 🌌 How to reach me **atalant@stlcc.edu** or **aiturgan888@gmail.com**.
+- I’m currently learning **React** and **Swift**.
+  
+- Ask me about **UX/UI** tips! I have an eye for great user interfaces! 
+
+- How to reach me **atalant@stlcc.edu** or **aiturgan888@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
