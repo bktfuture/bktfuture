@@ -10,6 +10,7 @@
 - How to reach me **atalant@stlcc.edu** or **aiturgan888@gmail.com**.
 
 
+
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="SpaceShip" width="400" src="https://i.redd.it/0ro1lg4f2mo11.gif">
 <p align="left">
