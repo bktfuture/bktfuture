@@ -3,7 +3,7 @@
 
 - Check out my [Linkedin](https://www.linkedin.com/in/aiturgantalant/) to learn more about me!
 
-- I’m currently learning **React** and **Swift**, Blender.
+- I’m currently learning **Next.js** and **Swift**, Blender.
   
 - Ask me about **UX/UI** tips! I have an eye for great user interfaces! 
 
