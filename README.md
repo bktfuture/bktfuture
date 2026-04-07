@@ -1,9 +1,10 @@
 
-![Hello, my name is Aya!](https://github.com/bktfuture/bktfuture/assets/86029622/57a65e61-bc3e-4b1b-b273-2425dd8b7f2e)
+![Hello, my name is Aya!](![IMG_7307](https://github.com/user-attachments/assets/f8136125-2428-40e7-9600-1c84b0b5b1c9)
+)
 
 - Check out my [Linkedin](https://www.linkedin.com/in/aiturgantalant/) to learn more about me!
 
-- I’m currently learning **Next.js** and **Swift**, Blender.
+- I love tinkering with code, art, Blender and sawing! 
   
 - Ask me about **UX/UI** tips! I have an eye for great user interfaces! 
 
