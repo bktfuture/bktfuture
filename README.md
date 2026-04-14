@@ -3,7 +3,7 @@
 
 - Check out my [Linkedin](https://www.linkedin.com/in/aiturgantalant/) to learn more about me!
 
-- I love tinkering with code, art, Blender and sawing! 
+- I love tinkering with code and art! 
   
 - Ask me about **UX/UI** tips! I have an eye for great user interfaces! 
 
